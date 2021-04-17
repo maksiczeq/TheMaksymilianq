@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheMaksymilianq
+- 👋 Hi, I’m @TheMaksymilianq.
 - 👀 I’m interested in anime.
-- 🌱 I’m currently learning javascript, lua and json
+- 🌱 I’m currently learning javascript, lua and json.
 
 <!---
 TheMaksymilianq/TheMaksymilianq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
